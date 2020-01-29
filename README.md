@@ -59,7 +59,7 @@ In the folder `./downloads/` there will be the list of certificates in the forma
 
 ## HTML Snippets
 
-Simplified HTML of a [single row](./assets/SingleRowOfHistory.html) of the history. I dropped the img src and teh svg path to make the html more readable.  
+Simplified HTML of a [single row](./assets/SingleRowOfHistory.html) of the history. I dropped the img src and the svg path to make the html more readable.  
 
 ```html
 <div data-css-prsp0g="">

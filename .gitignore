@@ -1,3 +1,6 @@
 # Build Results
 bin/
 obj/
+
+# Visual Studio / Visual Studio Code
+.vs/

@@ -53,7 +53,7 @@ dotnet run --project ./PluralsightCertificateDownloader/PluralsightCertificateDo
 
 **The JWT token will be in the history of your terminal!** The programm should be adapted that it will ask the user for the JWT as an secret input.
 
-### 5. review the list of certificates
+### 5. Review the list of certificates
 
 In the folder `./downloads/` there will be the list of certificates in the format `yyyy-MM-dd-NAME-OF-VIDEO.pdf`.
 

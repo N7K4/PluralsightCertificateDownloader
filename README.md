@@ -110,6 +110,10 @@ The history site on Pluralsight is **protected**.
 
 In both cases the downloaded HTML is not ready to use it for this tool. So you have to open the history in the browser and choose "Save As ...".  
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/N7K4/PluralsightCertificateDownloader.svg)](https://starchart.cc/N7K4/PluralsightCertificateDownloader)
+
 ## Links
 
 * [HTML Agility pack: parsing an href tag](https://stackoverflow.com/questions/8497673/html-agility-pack-parsing-an-href-tag)
